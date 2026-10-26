@@ -223,8 +223,6 @@ WG Installing is an independent program and is not made by Microsoft.
 
 <a href="https://youtu.be/-S9qmIzon4g"><img src="docs/images/video.jpg" alt="Watch the full step-by-step video guide" width="480"></a>
 
-**▶ [Full video guide on YouTube](https://youtu.be/-S9qmIzon4g)**
-
 </div>
 
 ## Author
